@@ -74,6 +74,7 @@ plugins=(git docker python tmux)
 
 source $ZSH/oh-my-zsh.sh
 source $HOME/config/kube-ps1.plugin.zsh
+source $HOME/config/credentials.env
 
 # User configuration
 
